@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  font-family: 'Tahoma';
+  font-style: italic;
+  background-color: #416974;
+  height: 80px;
+  padding: 10px;
+  color: #E6E7C6;
+}
+
+.App-footer {
+
+  font-family: 'Tahoma';
+  font-style: italic;
+  background-color: #2E2930;
+  height: 90px;
+  display: flex;
+align-items: center;
+justify-content: center;
+
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #87576F;
+  font-size:1em;
+
+}
+
+
+.container {
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #E6E7C6;
+
+
+
+}
+
+.container_episod {
+
+
+  background-color: #9BB8AA;
+  height:'100px',
+
+}
